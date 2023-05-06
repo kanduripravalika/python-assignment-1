@@ -1,7 +1,7 @@
 # python-assignment-1
 fiboonic sequence
 
-#case 1:USING WHILE LOOP
+# case 1:USING WHILE LOOP
 
 nterms = int(input("enter no of terms? "))
 n1, n2 = 1, 1
@@ -15,7 +15,7 @@ while count < nterms:
        n2 = nth
        count += 1
        
- #case 2:USING IF CONDITION
+ # case 2:USING IF CONDITION
  
  nterms = int(input("enter no of terms? "))
 n1, n2 = 1, 1
